@@ -1,5 +1,7 @@
 # ecef_to_llh.py
 #
+# It seems like I don't have to change this script at all for it to be implemented? A bit confused about the point here... Hopefully I'm not missing anything.
+#
 # Usage: python3 ecef_to_llh.py r_x_km r_y_km r_z_km
 #  Converts ECEF vector components to LLH
 #  See "Fundamentals of Astrodynamics and Applications, Fourth Edition" by
